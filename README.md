@@ -43,8 +43,14 @@ This script is based on the https://github.com/j74/Generic-Python-Remote-Script 
 
 # Midiplus x4 pro mini 
 修改文件夹中MIDI_Map.py中各个参数的映射值 然后复制到上述指定目录 即可使用
+
 我的MIDI_Map.py设置中 
+
 midi通道1时 八个旋钮对应的是该轨道设备(乐器)的宏控制
+
 midi通道2时 八个旋钮对应的是八个轨道的音量值
+
 midi通道1时 第九个旋钮对应总音量
+
 midi通道1时 五个cc按钮分别对应session view: 向左选中轨道/向右选中轨道/向上选中scene/向下选中scene/启动当前选中的scene
+
