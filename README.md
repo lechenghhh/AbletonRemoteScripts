@@ -46,11 +46,19 @@ This script is based on the https://github.com/j74/Generic-Python-Remote-Script 
 
 我的MIDI_Map.py设置中 
 
-midi通道1时 八个旋钮对应的是该轨道设备(乐器)的宏控制
+midi channel 1: 八个旋钮对应的是该轨道设备(乐器)的宏控制
 
-midi通道2时 八个旋钮对应的是八个轨道的音量值
+midi channel 1: 第九个旋钮对应总音量
 
-midi通道1时 第九个旋钮对应总音量
+midi channel 1: 五个cc按钮分别对应session view: 向左选中轨道/向右选中轨道/向上选中scene/向下选中scene/启动当前选中的scene
 
-midi通道1时 五个cc按钮分别对应session view: 向左选中轨道/向右选中轨道/向上选中scene/向下选中scene/启动当前选中的scene
+midi channel 2: 八个旋钮对应的是八个轨道的音量值
+
+midi channel 3: 八个旋钮对应的是八个轨道的声像值
+
+midi channel 4: 八个旋钮对应的是八个轨道的发送效果A
+
+midi channel 5: 八个旋钮对应的是八个轨道的发送效果B
+
+
 
