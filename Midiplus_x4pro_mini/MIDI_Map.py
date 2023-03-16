@@ -886,15 +886,15 @@ TRACKVOL_CH = (1, # Channel for Track 1
 ###########################################################
 # Track Pan Sliders
 # Note: Must be at least TRACK_NUMBER long
-TRACKPAN = (-1, #Track 1 Pan
-            -1, #Track 2
-            -1, #Track 3
-            -1, #Track 4
-            -1, #Track 5
-            -1, #Track 6
-            -1, #Track 7
-            -1, #Track 8
-            -1, #Track 9
+TRACKPAN = (5, #Track 1 Pan
+            84, #Track 2
+            74, #Track 3
+            71, #Track 4
+            73, #Track 5
+            72, #Track 6
+            93, #Track 7
+            91, #Track 8
+            7, #Track 9
             -1, #Track 10
             -1, #Track 11
             -1, #Track 12
@@ -954,52 +954,52 @@ TRACKPAN_TYPE = (1, # Type for Track 1
              1, # Type for Track 32
              )
 
-TRACKPAN_CH = (0, # Channel for Track 1
-             0, # Channel for Track 2
-             0, # Channel for Track 3
-             0, # Channel for Track 4
-             0, # Channel for Track 5
-             0, # Channel for Track 6
-             0, # Channel for Track 7
-             0, # Channel for Track 8
-             0, # Channel for Track 9
-             0, # Channel for Track 10
-             0, # Channel for Track 11
-             0, # Channel for Track 12
-             0, # Channel for Track 13
-             0, # Channel for Track 14
-             0, # Channel for Track 15
-             0, # Channel for Track 16
-             0, # Channel for Track 17
-             0, # Channel for Track 18
-             0, # Channel for Track 19
-             0, # Channel for Track 20
-             0, # Channel for Track 21
-             0, # Channel for Track 22
-             0, # Channel for Track 23
-             0, # Channel for Track 24
-             0, # Channel for Track 25
-             0, # Channel for Track 26
-             0, # Channel for Track 27
-             0, # Channel for Track 28
-             0, # Channel for Track 29
-             0, # Channel for Track 30
-             0, # Channel for Track 31
-             0, # Channel for Track 32
+TRACKPAN_CH = (2, # Channel for Track 1
+             2, # Channel for Track 2
+             2, # Channel for Track 3
+             2, # Channel for Track 4
+             2, # Channel for Track 5
+             2, # Channel for Track 6
+             2, # Channel for Track 7
+             2, # Channel for Track 8
+             2, # Channel for Track 9
+             2, # Channel for Track 10
+             2, # Channel for Track 11
+             2, # Channel for Track 12
+             2, # Channel for Track 13
+             2, # Channel for Track 14
+             2, # Channel for Track 15
+             2, # Channel for Track 16
+             2, # Channel for Track 17
+             2, # Channel for Track 18
+             2, # Channel for Track 19
+             2, # Channel for Track 20
+             2, # Channel for Track 21
+             2, # Channel for Track 22
+             2, # Channel for Track 23
+             2, # Channel for Track 24
+             2, # Channel for Track 25
+             2, # Channel for Track 26
+             2, # Channel for Track 27
+             2, # Channel for Track 28
+             2, # Channel for Track 29
+             2, # Channel for Track 30
+             2, # Channel for Track 31
+             2, # Channel for Track 32
              )
 
 ###########################################################
 # Track Send A Sliders
 # Note: Must be at least TRACK_NUMBER long
-TRACKSENDA = (-1, #Track 1 Send A
-              -1, #Track 2
-              -1, #Track 3
-              -1, #Track 4
-              -1, #Track 5
-              -1, #Track 6
-              -1, #Track 7
-              -1, #Track 8
-              -1, #Track 9
+TRACKSENDA = (5, #Track 1 Send A
+              84, #Track 2
+              74, #Track 3
+              71, #Track 4
+              73, #Track 5
+              72, #Track 6
+              93, #Track 7
+              91, #Track 8
+              7, #Track 9
               -1, #Track 10
               -1, #Track 11
               -1, #Track 12
@@ -1059,52 +1059,52 @@ TRACKSENDA_TYPE = (1, # Type for Track 1
              1, # Type for Track 32
              )
 
-TRACKSENDA_CH = (0, # Channel for Track 1
-             0, # Channel for Track 2
-             0, # Channel for Track 3
-             0, # Channel for Track 4
-             0, # Channel for Track 5
-             0, # Channel for Track 6
-             0, # Channel for Track 7
-             0, # Channel for Track 8
-             0, # Channel for Track 9
-             0, # Channel for Track 10
-             0, # Channel for Track 11
-             0, # Channel for Track 12
-             0, # Channel for Track 13
-             0, # Channel for Track 14
-             0, # Channel for Track 15
-             0, # Channel for Track 16
-             0, # Channel for Track 17
-             0, # Channel for Track 18
-             0, # Channel for Track 19
-             0, # Channel for Track 20
-             0, # Channel for Track 21
-             0, # Channel for Track 22
-             0, # Channel for Track 23
-             0, # Channel for Track 24
-             0, # Channel for Track 25
-             0, # Channel for Track 26
-             0, # Channel for Track 27
-             0, # Channel for Track 28
-             0, # Channel for Track 29
-             0, # Channel for Track 30
-             0, # Channel for Track 31
-             0, # Channel for Track 32
+TRACKSENDA_CH = (3, # Channel for Track 1
+             3, # Channel for Track 2
+             3, # Channel for Track 3
+             3, # Channel for Track 4
+             3, # Channel for Track 5
+             3, # Channel for Track 6
+             3, # Channel for Track 7
+             3, # Channel for Track 8
+             3, # Channel for Track 9
+             3, # Channel for Track 10
+             3, # Channel for Track 11
+             3, # Channel for Track 12
+             3, # Channel for Track 13
+             3, # Channel for Track 14
+             3, # Channel for Track 15
+             3, # Channel for Track 16
+             3, # Channel for Track 17
+             3, # Channel for Track 18
+             3, # Channel for Track 19
+             3, # Channel for Track 20
+             3, # Channel for Track 21
+             3, # Channel for Track 22
+             3, # Channel for Track 23
+             3, # Channel for Track 24
+             3, # Channel for Track 25
+             3, # Channel for Track 26
+             3, # Channel for Track 27
+             3, # Channel for Track 28
+             3, # Channel for Track 29
+             3, # Channel for Track 30
+             3, # Channel for Track 31
+             3, # Channel for Track 32
              )
 
 ###########################################################
 # Track Send B Sliders
 # Note: Must be at least TRACK_NUMBER long
-TRACKSENDB = (-1, #Track 1 Send B
-              -1, #Track 2
-              -1, #Track 3
-              -1, #Track 4
-              -1, #Track 5
-              -1, #Track 6
-              -1, #Track 7
-              -1, #Track 8
-              -1, #Track 9
+TRACKSENDB = (5, #Track 1 Send B
+              84, #Track 2
+              74, #Track 3
+              71, #Track 4
+              73, #Track 5
+              72, #Track 6
+              93, #Track 7
+              91, #Track 8
+              7, #Track 9
               -1, #Track 10
               -1, #Track 11
               -1, #Track 12
@@ -1164,38 +1164,38 @@ TRACKSENDB_TYPE = (1, # Type for Track 1
              1, # Type for Track 32
              )
 
-TRACKSENDB_CH = (0, # Channel for Track 1
-             0, # Channel for Track 2
-             0, # Channel for Track 3
-             0, # Channel for Track 4
-             0, # Channel for Track 5
-             0, # Channel for Track 6
-             0, # Channel for Track 7
-             0, # Channel for Track 8
-             0, # Channel for Track 9
-             0, # Channel for Track 10
-             0, # Channel for Track 11
-             0, # Channel for Track 12
-             0, # Channel for Track 13
-             0, # Channel for Track 14
-             0, # Channel for Track 15
-             0, # Channel for Track 16
-             0, # Channel for Track 17
-             0, # Channel for Track 18
-             0, # Channel for Track 19
-             0, # Channel for Track 20
-             0, # Channel for Track 21
-             0, # Channel for Track 22
-             0, # Channel for Track 23
-             0, # Channel for Track 24
-             0, # Channel for Track 25
-             0, # Channel for Track 26
-             0, # Channel for Track 27
-             0, # Channel for Track 28
-             0, # Channel for Track 29
-             0, # Channel for Track 30
-             0, # Channel for Track 31
-             0, # Channel for Track 32
+TRACKSENDB_CH = (4, # Channel for Track 1
+             4, # Channel for Track 2
+             4, # Channel for Track 3
+             4, # Channel for Track 4
+             4, # Channel for Track 5
+             4, # Channel for Track 6
+             4, # Channel for Track 7
+             4, # Channel for Track 8
+             4, # Channel for Track 9
+             4, # Channel for Track 10
+             4, # Channel for Track 11
+             4, # Channel for Track 12
+             4, # Channel for Track 13
+             4, # Channel for Track 14
+             4, # Channel for Track 15
+             4, # Channel for Track 16
+             4, # Channel for Track 17
+             4, # Channel for Track 18
+             4, # Channel for Track 19
+             4, # Channel for Track 20
+             4, # Channel for Track 21
+             4, # Channel for Track 22
+             4, # Channel for Track 23
+             4, # Channel for Track 24
+             4, # Channel for Track 25
+             4, # Channel for Track 26
+             4, # Channel for Track 27
+             4, # Channel for Track 28
+             4, # Channel for Track 29
+             4, # Channel for Track 30
+             4, # Channel for Track 31
+             4, # Channel for Track 32
              )
 
 ###########################################################
@@ -1306,14 +1306,14 @@ TRACKSENDC_CH = (0, # Channel for Track 1
 ###########################################################
 # Device Bank
 # Note: All 8 banks must be assigned to positive values in order for bank selection to work
-DEVICEBANK = (-1, #Bank 1
-              -1, #Bank 2
-              -1, #Bank 3
-              -1, #Bank 4
-              -1, #Bank 5
-              -1, #Bank 6
-              -1, #Bank 7
-              -1, #Bank 8
+DEVICEBANK = (5, #Bank 1
+              84, #Bank 2
+              74, #Bank 3
+              71, #Bank 4
+              73, #Bank 5
+              72, #Bank 6
+              93, #Bank 7
+              71, #Bank 8
               )
 
 DEVICEBANK_TYPE = (0, #Bank 1
@@ -1326,14 +1326,14 @@ DEVICEBANK_TYPE = (0, #Bank 1
               0, #Bank 8
               )
 
-DEVICEBANK_CH = (0, #Bank 1
-              0, #Bank 2
-              0, #Bank 3
-              0, #Bank 4
-              0, #Bank 5
-              0, #Bank 6
-              0, #Bank 7
-              0, #Bank 8
+DEVICEBANK_CH = (15, #Bank 1
+              15, #Bank 2
+              15, #Bank 3
+              15, #Bank 4
+              15, #Bank 5
+              15, #Bank 6
+              15, #Bank 7
+              15, #Bank 8
               )
 
 ###########################################################
