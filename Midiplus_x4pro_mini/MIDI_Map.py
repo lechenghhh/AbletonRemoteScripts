@@ -123,11 +123,11 @@ BUTTON_VECTOR = (-1, #Global play 					[0]
                 -1, #Detail view switch 			[14]
                 -1, #Clip/Track view switch 		[15]
                 -1, #Device Lock (lock "blue hand")	[16]
-                -1, #Device on/off 					[17]
-                -1, #Device nav left 				[18]
-                -1, #Device nav right 				[19]
-                -1, #Device bank nav left 			[20]
-                -1, #Device bank nav right 			[21]
+                63, #Device on/off 					[17]
+                59, #Device nav left 				[18]
+                60, #Device nav right 				[19]
+                61, #Device bank nav left 			[20]
+                62, #Device bank nav right 			[21]
                 -1, #Seek forward 					[22]
                 -1, #Seek rewind 					[23]
                 -1, #Session left 					[24]
@@ -165,11 +165,11 @@ BUTTON_VECTOR_TYPE = (0, #Global play 				[0] Type
                  0, #Detail view switch 			[14] Type
                  0, #Clip/Track view switch 		[15] Type
                  0, #Device Lock (lock "blue hand")	[16] Type
-                 0, #Device on/off 					[17] Type
-                 0, #Device nav left 				[18] Type
-                 0, #Device nav right 				[19] Type
-                 0, #Device bank nav left 			[20] Type
-                 0, #Device bank nav right 			[21] Type
+                 1, #Device on/off 					[17] Type
+                 1, #Device nav left 				[18] Type
+                 1, #Device nav right 				[19] Type
+                 1, #Device bank nav left 			[20] Type
+                 1, #Device bank nav right 			[21] Type
                  0, #Seek forward 					[22] Type
                  0, #Seek rewind 					[23] Type
                  0, #Session left 					[24] Type
@@ -207,11 +207,11 @@ BUTTON_VECTOR_CH = (0, #Global play 				[0] Channel
                  0, #Detail view switch 			[14] Channel
                  0, #Clip/Track view switch 		[15] Channel
                  0, #Device Lock (lock "blue hand")	[16] Channel
-                 0, #Device on/off 					[17] Channel
-                 0, #Device nav left 				[18] Channel
-                 0, #Device nav right 				[19] Channel
-                 0, #Device bank nav left 			[20] Channel
-                 0, #Device bank nav right 			[21] Channel
+                 1, #Device on/off 					[17] Channel
+                 1, #Device nav left 				[18] Channel
+                 1, #Device nav right 				[19] Channel
+                 1, #Device bank nav left 			[20] Channel
+                 1, #Device bank nav right 			[21] Channel
                  0, #Seek forward 					[22] Channel
                  0, #Seek rewind 					[23] Channel
                  0, #Session left 					[24] Channel
@@ -1316,14 +1316,14 @@ DEVICEBANK = (5, #Bank 1
               71, #Bank 8
               )
 
-DEVICEBANK_TYPE = (0, #Bank 1
-              0, #Bank 2
-              0, #Bank 3
-              0, #Bank 4
-              0, #Bank 5
-              0, #Bank 6
-              0, #Bank 7
-              0, #Bank 8
+DEVICEBANK_TYPE = (1, #Bank 1
+              1, #Bank 2
+              1, #Bank 3
+              1, #Bank 4
+              1, #Bank 5
+              1, #Bank 6
+              1, #Bank 7
+              1, #Bank 8
               )
 
 DEVICEBANK_CH = (15, #Bank 1
