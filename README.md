@@ -50,7 +50,7 @@ midi channel 1: 八个旋钮对应的是该轨道设备(乐器)的宏控制
 
 midi channel 1: 第九个旋钮对应总音量
 
-midi channel 1: 五个cc按钮分别对应session view: 向左选中轨道/向右选中轨道/向上选中scene/向下选中scene/启动当前选中的scene
+midi channel 1: 五个cc按钮分别对应session view: 向上选中scene/向下选中scene/向左选中轨道/向右选中轨道/启动当前选中的scene
 
 midi channel 2: 八个旋钮对应的是八个轨道的音量值
 
